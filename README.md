@@ -26,7 +26,7 @@ Average-Calculator/
 
 💡 How to Use
 1. Go to the Live Demo.
-2. Enter your numbers (e.g. 4, 8, 15, 20).
+2. Enter your numbers (e.g. 4, 8, 15, 20, 25, 11)
 3. Click Calculate to see the average.
 4. Use Reset to clear everything.
 
