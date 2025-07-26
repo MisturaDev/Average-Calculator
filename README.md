@@ -1,34 +1,44 @@
-📊 Average Calculator
+# 📊 Average Calculator
+
 A clean and interactive web app that calculates the average of numbers entered by the user. 
-Built using HTML, CSS, and JavaScript, it helps users compute averages quickly and efficiently.
+Built using **HTML**, **CSS**, and **JavaScript**, it helps users compute averages quickly and efficiently.
 
-🔗 Live Demo: Click to View (https://turahrae.github.io/Average-Calculator/)
+🔗 **Live Demo:** [Click to View](https://turahrae.github.io/Average-Calculator/)
 
-🚀 Features
-✅ Enter multiple numbers at once (separated by commas or spaces)
+## 🚀 Features
 
-📉 Instantly calculate the average
+- ✅ Enter multiple numbers at once (separated by commas or spaces)  
+- 📉 Instantly calculate the average  
+- 🔄 Reset button to clear inputs and result  
+- 📱 Fully responsive design for mobile and desktop  
 
-🔄 Reset button to clear inputs and result
+## 🛠️ Technologies Used
 
-📱 Fully responsive design for mobile and desktop
+- **HTML** – Markup structure  
+- **CSS** – Styling and layout  
+- **JavaScript** – Logic for calculating the average  
 
-🛠️ Technologies Used
-HTML – Markup structure
-CSS – Styling and layout
-JavaScript – Logic for calculating the average
+## 📂 Project Structure
+/index.html # Main HTML file
+/style.css # Stylesheet
+/script.js # JavaScript for logic
+/README.md # Project documentation
 
-📂 Project Structure
-Average-Calculator/
-├── index.html      # HTML content
-├── style.css       # Styling
-└── script.js       # JavaScript logic
 
-💡 How to Use
-1. Go to the Live Demo.
-2. Enter your numbers (e.g. 4, 8, 15, 20, 25, 11)
-3. Click Calculate to see the average.
-4. Use Reset to clear everything.
+## 💡 How to Use
 
-✨ Author
-Made with ❤️ by Mistura Ishola
+1. Open the web app in your browser or use the demo link above.  
+2. Enter numbers separated by commas or spaces.  
+3. Click the **Calculate** button to see the result.  
+4. Use **Reset** to clear everything and start over.
+
+## 🤝 Contribution
+
+Contributions are welcome! Fork the repo, create a branch and submit a pull request.
+
+
+---
+
+💖 Made with love by Mistura 💻✨
+
+
