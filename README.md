@@ -1,7 +1,7 @@
 # 📊 Average Calculator
 
 A clean and interactive web app that calculates the average of numbers entered by the user. 
-Built using **HTML**, **CSS**, and **JavaScript**, it helps users compute averages quickly and efficiently.
+Built using **HTML** and **JavaScript**, it helps users compute averages quickly and efficiently.
 
 🔗 **Live Demo:** [Click to View](https://turahrae.github.io/Average-Calculator/)
 
@@ -14,13 +14,11 @@ Built using **HTML**, **CSS**, and **JavaScript**, it helps users compute averag
 
 ## 🛠️ Technologies Used
 
-- **HTML** – Markup structure  
-- **CSS** – Styling and layout  
+- **HTML** – Markup structure   
 - **JavaScript** – Logic for calculating the average  
 
 ## 📂 Project Structure
 /index.html # Main HTML file
-/style.css # Stylesheet
 /script.js # JavaScript for logic
 /README.md # Project documentation
 
