@@ -6,7 +6,7 @@ Built using **HTML** and **JavaScript**, it allows users to compute averages qui
 ---
 
 ## 🌐 Live Demo
-🔗 [Click to View](https://turahrae.github.io/Average-Calculator/)
+🔗 [Click to View](https://misturadev.github.io/Average-Calculator/)
 
 ---
 
@@ -54,8 +54,9 @@ Contributions are welcome! Fork the repository, create a branch and submit a pul
 
 ## 👩‍💻 Author
 
-**Mistura Ishola (Turah Rae)**   
-🔗 [GitHub](https://github.com/TurahRae) 
+**Mistura Ishola**   
+🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
+
 
 ---
 
